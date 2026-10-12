@@ -1,4 +1,4 @@
-# **App Name**: PortNet Vision AI Dashboard
+# **App Name**: SIRA
 
 ## Core Features:
 
